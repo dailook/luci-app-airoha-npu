@@ -1,6 +1,6 @@
 {
 	"admin/status/npu": {
-		"title": "NPU Status",
+		"title": "NPU 状态",
 		"order": 15,
 		"action": {
 			"type": "view",

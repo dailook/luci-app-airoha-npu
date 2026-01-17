@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# 页面标题/菜单
+msgid "NPU Status"
+msgstr "NPU 状态"
+
+msgid "Airoha NPU Status"
+msgstr "Airoha NPU 状态"
+
+# NPU 信息区块
+msgid "NPU Information"
+msgstr "NPU 信息"
+
+msgid "NPU Firmware Version"
+msgstr "NPU 固件版本"
+
+msgid "NPU Status"
+msgstr "NPU 状态"
+
+msgid "NPU Clock / Cores"
+msgstr "NPU 时钟 / 核心数"
+
+msgid "Reserved Memory"
+msgstr "保留内存"
+
+msgid "Offload Statistics"
+msgstr "卸载统计"
+
+msgid "Not available"
+msgstr "不可用"
+
+msgid "Active"
+msgstr "已激活"
+
+msgid "Not Active"
+msgstr "未激活"
+
+# PPE 流卸载区块
+msgid "PPE Flow Offload Entries"
+msgstr "PPE 流卸载条目"
+
+msgid "Total:"
+msgstr "总数："
+
+msgid "Bound:"
+msgstr "已绑定："
+
+msgid "Unbound:"
+msgstr "未绑定："
+
+# PPE 表格列名
+msgid "Index"
+msgstr "索引"
+
+msgid "State"
+msgstr "状态"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Original Flow"
+msgstr "原始流"
+
+msgid "New Flow"
+msgstr "新流"
+
+msgid "Ethernet"
+msgstr "以太网"
+
+msgid "Packets"
+msgstr "数据包"
+
+msgid "Bytes"
+msgstr "字节数"
